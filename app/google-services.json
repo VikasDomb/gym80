@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2318158701",
+    "project_id": "gym80-c5587",
+    "storage_bucket": "gym80-c5587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2318158701:android:c882c232b8e1e7eeaf6864",
+        "android_client_info": {
+          "package_name": "com.tkiet.gym80"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHwIkCGTPCzkmOS007HjyJyFqjlBzqy3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
